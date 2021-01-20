@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "549047547542",
+    "project_id": "gerenciador-esportivo",
+    "storage_bucket": "gerenciador-esportivo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549047547542:android:3afd363fd68cddfd5274b7",
+        "android_client_info": {
+          "package_name": "br.com.djbir.sistemadeclubes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549047547542-ib57rp8rrlvffe74ar2gf4fsctcgpckk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd6UwqxrdLQYU_Iu-JU90djBJ0Z40uzOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549047547542-ib57rp8rrlvffe74ar2gf4fsctcgpckk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "549047547542-g02l7frjlgq2c3tmea5mrdvla8o6vb7i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.djbir.gerenciadoresportivo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
